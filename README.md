@@ -1,4 +1,4 @@
-# Newegg Price Scrapper
+# Newegg Price Scraper
 
 Hi all,
 
