@@ -1,7 +1,7 @@
 # Sam Carroll
 # 11/28/21
 
-# Newegg Price Scrapper
+# Newegg Price Scraper
 
 # imports
 import requests
