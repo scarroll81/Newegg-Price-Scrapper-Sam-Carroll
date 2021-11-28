@@ -2,7 +2,7 @@
 
 Hi all,
 
-This is a price scrapper for newegg.com.
+This is a price scrapper for newegg.com writteh in Python.
 Using beautiful soup, the scrapper takes the title 
 and price from the HTML, trims off the excess HTMl 
 to make it readable, and prints the product and prices.
